@@ -1,3 +1,7 @@
+# Keras Models
+keras_model.h5
+labels.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
